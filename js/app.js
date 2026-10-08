@@ -13,7 +13,7 @@ const AppState = {
   sortBy: "featured",
   selectedOccasion: "all",
   selectedFabric: "all",
-  storePhone: "919876543210", // Store WhatsApp Contact
+  storePhone: "918792078270", // Store WhatsApp Contact
   storeName: "GANGA BAVANI Fashion and Fancy"
 };
 

@@ -39,6 +39,6 @@ Then visit `http://localhost:8080` in your web browser.
 ## 🛠️ Customization Guide
 
 1. **Update WhatsApp Number & Store Details**:
-   - Open `js/app.js` and edit `AppState.storePhone` (e.g. `"919876543210"`).
+   - Open `js/app.js` and edit `AppState.storePhone` (e.g. `"918792078270"`).
 2. **Add or Modify Products**:
    - Open `js/products.js` and add or edit product objects inside `PRODUCTS_DATA`.
