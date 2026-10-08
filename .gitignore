@@ -1,0 +1,8 @@
+# System / OS files
+Thumbs.db
+.DS_Store
+
+# Temporary / Scratch
+*.tmp
+*.log
+__pycache__/
